@@ -40,6 +40,8 @@ Step 3: Ensure Safari avoids the same proxy configuration or configure a separat
 This setup lets Chrome use the proxy IP while Safari sticks with the default IP.
 
 Try OkeyProxy $3/GB [Proxy Trial](https://www.okeyproxy.com/register?link=post) of [Residential Proxies](https://www.okeyproxy.com/en/residential-proxies)!
+
+
 ![image](https://github.com/user-attachments/assets/cbf08c21-daa5-4000-8023-cdc5b31af882)
 
 2. Using VPN Services
